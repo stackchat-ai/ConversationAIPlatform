@@ -19,6 +19,6 @@ Stackchat offers trial accounts, sign up and deploy your first bot just a few si
 [Start building bots today!](https://app.au.stackchat.com/account/register)
 
 ## Documentation and Resources
-  * [Dynamic Content SDK](https://stackchat.com/dynamic-content-toolkit)
+  * [Dynamic Content SDK](https://stackchat.com/stackchat-ai/dynamic-content-toolkit)
   * [Stackchat Web Messenger](https://github.com/stackchat-ai/web-messenger)
   * [Proactive Messaging](https://github.com/stackchat-ai/proactive-messaging)
